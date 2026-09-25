@@ -1,0 +1,11 @@
+images/
+data/
+attendance.csv
+.vscode/
+.spyproject/
+__pycache__/
+*.pyc
+faceenv/
+venv/
+.env
+final_model.h5
